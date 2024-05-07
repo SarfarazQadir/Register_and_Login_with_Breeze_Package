@@ -1,6 +1,7 @@
 ![image](https://github.com/SarfarazQadir/Register_and_Login_with_Breeze_Package/assets/144503703/bf6b6ff6-9f99-4855-979a-a3b6a8fa3eb4)
 ![image](https://github.com/SarfarazQadir/Register_and_Login_with_Breeze_Package/assets/144503703/63cdef7e-da57-418e-a228-19eb1911a470)
 ![image](https://github.com/SarfarazQadir/Register_and_Login_with_Breeze_Package/assets/144503703/a74a215b-0c3a-4da2-be4c-9a28dd40f2d2)
+![image](https://github.com/SarfarazQadir/Register_and_Login_with_Breeze_Package/assets/144503703/b0cef342-7575-4097-8bf4-d48c8a4681f5)
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
