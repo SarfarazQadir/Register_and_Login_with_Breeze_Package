@@ -1,3 +1,6 @@
+![image](https://github.com/SarfarazQadir/Register_and_Login_with_Breeze_Package/assets/144503703/bf6b6ff6-9f99-4855-979a-a3b6a8fa3eb4)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
