@@ -2,6 +2,22 @@
     <!-- Session Status -->
     <x-auth-session-status class="mb-4" :status="session('status')" />
 
+    @env('local')
+    
+    <x-login-link 
+    label="Login as Admin "
+    email="sarfarazqadir594.com"
+    :user-attributes="['role' => 'admin']" 
+    />
+
+    <x-login-link 
+    label="Login as User "
+    email="shams@gmail.com"
+    :user-attributes="['role' => 'user']" 
+    />
+
+@endenv
+
     <form method="POST" action="{{ route('login') }}">
         @csrf
 
